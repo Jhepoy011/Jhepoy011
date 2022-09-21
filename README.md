@@ -1,4 +1,4 @@
-<img src="https://rare-gallery.com/uploads/posts/1236625-eat-sleep-code-repeat.jpg" alt="Girl in a jacket" width="400">
+<img src="https://rare-gallery.com/uploads/posts/1236625-eat-sleep-code-repeat.jpg" alt="Girl in a jacket" width="500">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeffrey Mendoza!
 ========================================================================================================================================
