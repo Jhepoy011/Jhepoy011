@@ -1,5 +1,5 @@
 <img src="https://rare-gallery.com/uploads/posts/1236625-eat-sleep-code-repeat.jpg" alt="A in a jacket" width="500">
-<img src="https://rookool.fr/wp-content/uploads/2017/10/placeholder.gif" alt="A in a jacket" width="500" border-radius="5%">
+<img src="https://rookool.fr/wp-content/uploads/2017/10/placeholder.gif" alt="A in a jacket" width="500" border="5%">
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeffrey Mendoza!
