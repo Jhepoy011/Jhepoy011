@@ -1,10 +1,14 @@
+
 <img src="https://rare-gallery.com/uploads/posts/1236625-eat-sleep-code-repeat.jpg" alt="A in a jacket" width="500">
 
 
-Hello World![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jeffrey Mendoza! aka Jhepoy
+[![](https://visitcount.itsvg.in/api?id=jhepoy011&icon=2&color=2)](https://visitcount.itsvg.in)
+
+
+Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jeffrey Mendoza
 ========================================================================================================================================
 
-as ASPIRING WEB DEVELOPER
+### About Me
 -------------------------
 * 💬 Ask me about something **HAHAHAH**
 * ✉️  You can contact me at [itsme.jhepoy24@gmail.com](mailto:itsme.jhepoy24@gmail.com)
@@ -20,7 +24,7 @@ as ASPIRING WEB DEVELOPER
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhepoy011&show_icons=true&locale=en&layout=compact" alt="jhepoy011" /></p>
+
 
 ### Socials
 
@@ -30,10 +34,9 @@ as ASPIRING WEB DEVELOPER
 <a href="https://www.youtube.com/c/UCVvslOle0RrQ3y6fTleUixA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/Jhepoy011" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> </p>
 
-# 📊 GitHub Stats:
+### GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=jhepoy011&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jhepoy011&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhepoy011&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=jhepoy011&icon=2&color=2)](https://visitcount.itsvg.in)
