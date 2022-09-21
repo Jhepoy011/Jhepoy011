@@ -18,6 +18,7 @@ as ASPIRING WEB DEVELOPER
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhepoy011&show_icons=true&locale=en&layout=compact" alt="jhepoy011" /></p>
 
 ### Socials
 
