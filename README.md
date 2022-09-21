@@ -1,4 +1,4 @@
-<img src="https://images.app.goo.gl/dEkjprk6DRo8eX9x5" alt="Girl in a jacket" width="500" height="600">
+<img src="https://images.app.goo.gl/dEkjprk6DRo8eX9x5" alt="Girl in a jacket" width="400">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jeffrey Mendoza!
 ========================================================================================================================================
