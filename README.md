@@ -10,7 +10,7 @@ Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-078
 
 ### About Me
 -------------------------
-* 💬 Ask me about something **HAHAHAH**
+* 💬 Ask me about anything **HAHAHAH**
 * ✉️  You can contact me at [itsme.jhepoy24@gmail.com](mailto:itsme.jhepoy24@gmail.com)
 * 🧠  I'm learning HTML, CSS, JAVASCRIPT
 
